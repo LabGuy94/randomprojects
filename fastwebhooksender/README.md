@@ -8,5 +8,5 @@
   - pip install requests
 - [Run main.py from your terminal](https://howchoo.com/python/run-python-terminal)
 # Notes
-from what I see proxies dont make a difference, I just felt like using them
+PROXIES MAKE A HUGE DIFFERENCE FROM WHAT I SEE
 ![image of termina](https://cdn.discordapp.com/attachments/865897316043718676/865897366687449109/Screen_Shot_2021-07-17_at_1.05.38_PM.png)
