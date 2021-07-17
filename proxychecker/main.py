@@ -1,11 +1,14 @@
+timeouttime = 3
+threadsamount = 100
+
+
+#------ DONT EDIT BELLOW -----#
 import requests
 import threading
 import random
 proxies = open('proxies.txt','r').read().splitlines()
 proxies = [{'https':'http://'+proxy} for proxy in proxies]
 checkedproxies = []
-timeouttime = 3
-threadsamount = 100
 def checkproxies():
     for proxy in proxies:
         global checkedproxies
