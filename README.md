@@ -1,1 +1,1 @@
-README.md's for the projects are in the folder of the projects
+projects that i want to share but don't believe deserve their own repository 
