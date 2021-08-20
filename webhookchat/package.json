@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "dotenv": "^10.0.0",
+    "mineflayer": "^3.10.0",
+    "webhook-discord": "^3.7.8"
+  }
+}
